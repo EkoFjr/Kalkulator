@@ -6,7 +6,8 @@
     <string name="x">x</string>
     <string name="tambah">+</string>
     <string name="kurang">-</string>
-    <string name="masukkan_angka_kedua">Masukkan angka kedua</string>
-    <string name="masukkan_angka_pertama">Masukkan angka pertama</string>
     <string name="masukkan_dua_angka">MASUKKAN DUA ANGKA</string>
+    <string name="bagi">/</string>
+    <string name="masukkan_angka_pertama">Masukkan angka pertama</string>
+    <string name="masukkan_angka_kedua">Masukkan angka kedua</string>
 </resources>
